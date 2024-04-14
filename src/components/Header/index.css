@@ -1,0 +1,36 @@
+.header-main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 150px 30px 100px;
+}
+
+.left-items,
+.right-items {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  width: 200px;
+
+  justify-content: space-between;
+}
+
+.header-logo,
+.header-profile {
+  height: 35px; /* Adjust the height as needed */
+}
+
+.header-dl {
+  font-size: 24px; /* Adjust the font size as needed */
+}
+
+.logout-btn {
+  width: 90px;
+  height: 30px;
+  background-color: #ffffff;
+  color: #3b82f6;
+  border: 1px solid #3b82f6;
+  border-radius: 2px;
+}

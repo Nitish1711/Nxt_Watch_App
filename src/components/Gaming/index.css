@@ -1,0 +1,20 @@
+.product-image1 {
+  width: 80%;
+}
+
+.product-float1 {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-around;
+}
+
+.product-container1 {
+  display: flex;
+  flex-direction: row;
+}
+
+.home-container1 {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,70 @@
+.product-card {
+  width: 700px;
+  height: 250px;
+  margin-bottom: 20px;
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+  flex-direction: row;
+}
+
+.product-float {
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+  flex-wrap: wrap;
+}
+.renderProduct {
+  background-color: #f9f9f9;
+  padding: 10%;
+}
+.product-image-home {
+  width: 90%;
+}
+
+.product-image-game {
+  height: 80%;
+}
+
+.product-logo {
+  width: 50px;
+  height: 50px;
+}
+
+.faint {
+  font-size: small;
+  color: #475569;
+}
+
+.channel-float {
+  display: flex;
+  flex-direction: row;
+  margin-top: 7px;
+  gap: 10px;
+  width: 90%;
+}
+
+.details-column {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 200%;
+}
+
+.default-row {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.text-font {
+  font-family: Roboto;
+}
+
+.trending-logo {
+  height: 130px;
+  width: 120%;
+  background-color: #f1f1f1;
+  margin-left: 0;
+  padding: 3% 10% 2% 10%;
+}

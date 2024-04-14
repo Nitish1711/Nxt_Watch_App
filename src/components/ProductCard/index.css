@@ -1,0 +1,41 @@
+.product-image-home {
+  width: 90%;
+}
+
+.product-image-game {
+  height: 80%;
+}
+
+.product-logo {
+  width: 50px;
+  height: 50px;
+}
+
+.faint {
+  font-size: small;
+  color: #475569;
+}
+
+.channel-float {
+  display: flex;
+  flex-direction: row;
+  margin-top: 7px;
+  gap: 10px;
+  width: 90%;
+}
+
+.details-column {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.default-row {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.text-font {
+  font-family: Roboto;
+}

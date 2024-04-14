@@ -1,0 +1,21 @@
+.right-container {
+  width: 70%;
+}
+
+.input-search {
+  width: 300px;
+  height: 32px;
+  border: 2px groove;
+  padding-left: 15px;
+}
+
+.input-search-btn {
+  height: 32px;
+  border: 2px groove;
+  margin-bottom: 15px;
+}
+
+.input-search-container {
+  padding: 23px 0 0 40px;
+  background-color: #f1f5f9;
+}

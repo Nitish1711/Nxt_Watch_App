@@ -1,0 +1,25 @@
+.premium-font {
+  font-size: large;
+  margin-top: 12px;
+}
+
+.premium-btn {
+  border: 2px solid black;
+  height: 42px;
+  width: 110px;
+  background-color: #ffffff;
+  font-family: Roboto;
+  margin-top: 30px;
+}
+
+.logo {
+  height: 40px;
+}
+
+.premium-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 250px;
+  padding: 40px;
+}
